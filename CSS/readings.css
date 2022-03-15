@@ -1,0 +1,112 @@
+* {
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+h1 {
+    color: cornflowerblue;
+    background: papayawhip;
+    border-style: solid;
+    border-color: rgb(217, 236, 173);
+    border-width: 20px;
+    border-style:solid;
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+h2 {
+    color: cornflowerblue;
+    position: absolute;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+#header2-1{
+    margin-top: -19px;
+    left: 29px;
+}
+
+p {
+    color: rgb(32, 57, 141);
+    font-weight: normal;
+    text-transform: none; 
+    font-style: normal;
+    line-height: 20px;
+    letter-spacing: normal;
+    text-decoration: none;
+    font-size: small;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+strong {
+    font-weight: normal;
+}
+body {
+    background: pink;
+}
+
+#textchunk1 {
+    top: 184px;
+    left: 20px;
+    position: absolute;
+    width: 400px;
+}
+
+#textchunk2{
+    top: 184px;
+    left: 435px;
+    position: absolute;
+    width: 400px;
+}
+
+#textchunk3{
+    top: 233px;
+    left: 855px;
+    position: absolute;
+    width: 400px;
+}
+
+#header2-2{
+    margin-top: 562px;
+    left: 20px;
+    position: absolute;
+    width: 1200px;
+}
+
+#textchunk4{
+    top: 830px;
+    left: 21px;
+    position: absolute;
+    width: 400px;
+}
+
+#textchunk5{
+    top: 830px;
+    left: 435px;
+    position: absolute;
+    width: 400px;
+}
+
+#textchunk6{
+    top: 880px;
+    left: 855px;
+    position: absolute;
+    width: 400px;
+}
+
+.backtohomebutton{
+    background: papayawhip;
+    border-style: solid;
+    border-color: rgb(217, 236, 173);
+    border-width: 5px;
+    border-style: solid;
+    position: fixed;
+    left: 20px;
+    top: 10px;
+    width: 60px;
+    height: 40px;
+    margin-left: 1319px;
+}
