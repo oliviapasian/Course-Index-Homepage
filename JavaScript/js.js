@@ -44,7 +44,5 @@ $(document).mousemove(function(){
 
 })
 
-//this section is for the readings page
-//remember to link the page to this if you use any javascript
 
 
